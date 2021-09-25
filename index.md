@@ -16,7 +16,16 @@ My initial [README.md file](README.md) can be found by clicking on the text to t
 I also have a [GitHub account](https://github.com/Froggerson) that you can peruse through if you are interested in what I have been doing for the past few months. However, you will find that there has been very little activity from me on that end.
 
 ## School
-As you may have guessed, I am currently a student enrolled in CSE 110. Here are some other classes that I am enrolled in:
+As you may have guessed, I am currently a student enrolled in CSE 110. I am currently working on a lab, and I am learning a lot about the following git commands!
+
+```
+git status
+git add
+git commit
+```
+I am not sure if this considered to be code, but just to be safe `print("I will just write this)`.
+
+Here are some other classes that I am enrolled in:
 - vis 142
 - cse 200
 - math 182
